@@ -1,0 +1,11 @@
+Hospital_Name,City,State,Hospital_Type,Specialties,Beds,Contact
+Apollo Hospitals,Delhi,Delhi,Private,"Cardiology, Oncology, Neurology, Endocrinology",500,+91-11-47444444
+Max Healthcare,Delhi,Delhi,Private,"Cardiology, Orthopedics, Pediatrics, General Medicine",450,+91-11-45018000
+Fortis Healthcare,Mumbai,Maharashtra,Private,"General, Trauma, Surgery, Orthopedics",350,+91-22-67676767
+AIIMS Delhi,Delhi,Delhi,Government,"General, Teaching Hospital, All Specialties",1600,+91-11-26165050
+Lilavati Hospital,Mumbai,Maharashtra,Private,"Cardiology, Gastroenterology, Nephrology",600,+91-22-68644444
+Hinduja Hospital,Mumbai,Maharashtra,Private,"Cardiology, Urology, Neurology, Oncology",700,+91-22-67888888
+Rainbow Hospitals,Hyderabad,Telangana,Private,"Multi-specialty, Orthopedics, Cardiology",400,+91-40-40234567
+Apollo Hospitals,Bangalore,Karnataka,Private,"Cardiology, Oncology, Neurology",550,+91-80-40261111
+Manipal Hospital,Bangalore,Karnataka,Private,"Multi-specialty, Trauma, Orthopedics",450,+91-80-25922000
+KEM Hospital,Mumbai,Maharashtra,Government,"Teaching Hospital, General, All Specialties",900,+91-22-24107060
